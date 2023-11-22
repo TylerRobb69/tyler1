@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Face Meme
+* source:	https://sketchfab.com/3d-models/cat-face-meme-1679f37be8184a7cbd038d80d3f78f5f
+* author:	juanjoalas (https://sketchfab.com/juanjoalasmorel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Face Meme" (https://sketchfab.com/3d-models/cat-face-meme-1679f37be8184a7cbd038d80d3f78f5f) by juanjoalas (https://sketchfab.com/juanjoalasmorel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
