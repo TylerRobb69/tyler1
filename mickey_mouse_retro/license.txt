@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mickey Mouse Retro
+* source:	https://sketchfab.com/3d-models/mickey-mouse-retro-5d4cc199846e439994a55ae26d6283e5
+* author:	Redhomie (https://sketchfab.com/redhomie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mickey Mouse Retro" (https://sketchfab.com/3d-models/mickey-mouse-retro-5d4cc199846e439994a55ae26d6283e5) by Redhomie (https://sketchfab.com/redhomie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
