@@ -1,0 +1,11 @@
+Model Information:
+* title:	My 100th model!
+* source:	https://sketchfab.com/3d-models/my-100th-model-fe79529497934617a1be1f75679e3d11
+* author:	SDC PERFORMANCE™️ (https://sketchfab.com/3Duae)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My 100th model!" (https://sketchfab.com/3d-models/my-100th-model-fe79529497934617a1be1f75679e3d11) by SDC PERFORMANCE™️ (https://sketchfab.com/3Duae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
